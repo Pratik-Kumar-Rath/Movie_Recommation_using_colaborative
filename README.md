@@ -1,4 +1,4 @@
-# Movie_Recommation_using_colaborative
+# Movie_Recommendation_using_colaborative
 
 This repository contains a movie recommendation system based on user preferences and ratings. The system uses collaborative filtering to recommend movies to users based on the ratings provided by other users with similar preferences.
 
